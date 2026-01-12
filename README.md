@@ -62,6 +62,11 @@ Make sure the input data is placed inside the `data/` directory before execution
 
 ---
 
+## Documentation
+Detailed static and dynamic analysis screenshots are included in the project report.
+
+---
+
 ## Disclaimer
 This project is intended strictly for **educational and research purposes**.  
 All threat intelligence data used in this project is sourced from publicly available feeds.

@@ -41,6 +41,7 @@ Threat_Intel_Aggregator/
 ├── LICENSE                     # License terms
 └── README.md                   # Project documentation
 
+```
 ---
 
 ## Tools & Technologies

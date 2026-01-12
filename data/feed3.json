@@ -1,0 +1,8 @@
+{
+  "indicators": [
+    "8.8.8.8",
+    "evil.com",
+    "http://bad-domain.net/login",
+    "44d88612fea8a8f36de82e1278abb02f"
+  ]
+}

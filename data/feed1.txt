@@ -1,0 +1,4 @@
+8.8.8.8
+45.33.32.156
+malicious-site.com
+http://bad-domain.net/login

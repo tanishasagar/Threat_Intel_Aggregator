@@ -1,0 +1,3 @@
+8.8.8.8 | sources: feed1.txt, feed3.json
+http://bad-domain.net/login | sources: feed1.txt, feed3.json
+evil.com | sources: feed2.csv, feed3.json

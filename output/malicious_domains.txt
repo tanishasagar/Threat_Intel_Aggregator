@@ -1,0 +1,2 @@
+malicious-site.com | sources: feed1.txt | occurrences: 1 | severity: LOW
+evil.com | sources: feed2.csv, feed3.json | occurrences: 2 | severity: MEDIUM

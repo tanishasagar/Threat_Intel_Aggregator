@@ -1,0 +1,4 @@
+indicator,type
+1.1.1.1,ip
+evil.com,domain
+http://phish-site.org,url

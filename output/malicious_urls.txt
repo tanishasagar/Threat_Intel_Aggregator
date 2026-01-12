@@ -1,0 +1,2 @@
+http://bad-domain.net/login | sources: feed1.txt, feed3.json | occurrences: 2 | severity: MEDIUM
+http://phish-site.org | sources: feed2.csv | occurrences: 1 | severity: LOW

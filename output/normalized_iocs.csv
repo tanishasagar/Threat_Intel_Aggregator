@@ -1,0 +1,9 @@
+IOC,Type,Occurrences,Severity,Sources
+8.8.8.8,ip,2,MEDIUM,"feed1.txt, feed3.json"
+45.33.32.156,ip,1,LOW,feed1.txt
+malicious-site.com,domain,1,LOW,feed1.txt
+http://bad-domain.net/login,url,2,MEDIUM,"feed1.txt, feed3.json"
+1.1.1.1,ip,1,LOW,feed2.csv
+evil.com,domain,2,MEDIUM,"feed2.csv, feed3.json"
+http://phish-site.org,url,1,LOW,feed2.csv
+44d88612fea8a8f36de82e1278abb02f,hash,1,LOW,feed3.json

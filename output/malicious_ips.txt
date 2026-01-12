@@ -1,0 +1,3 @@
+8.8.8.8 | sources: feed1.txt, feed3.json | occurrences: 2 | severity: MEDIUM
+45.33.32.156 | sources: feed1.txt | occurrences: 1 | severity: LOW
+1.1.1.1 | sources: feed2.csv | occurrences: 1 | severity: LOW

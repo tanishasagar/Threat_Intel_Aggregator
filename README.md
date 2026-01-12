@@ -19,28 +19,22 @@ The main goal of this project is to understand how raw threat data from differen
 ---
 
 ## Project Structure
-Threat_Intel_Aggregator/
-│
-├── data/
-│ ├── feed1.txt # Threat intelligence feed in text format/
-│ ├── feed2.csv # Threat intelligence feed in CSV format/
-│ └── feed3.json # Threat intelligence feed in JSON format
-│
-├── output/
-│ ├── high_risk_iocs.txt/
-│ ├── malicious_domains.txt/
-│ ├── malicious_hashes.txt/
-│ ├── malicious_ips.txt/
-│ ├── malicious_urls.txt/
-│ └── normalized_iocs.csv
-│
-├── reports/
-│ └── Threat_Intel_Aggregator_Report.docx/
-│
-├── aggregator.py # Main aggregation and normalization script/
-├── .gitattributes/
-├── README.md/
-└── LICENSE
+## 📂 Project Structure
+
+The project is organized as follows:
+
+```text
+Project-Name/
+├── src/                # Source code files
+│   ├── components/     # Reusable code components
+│   ├── utils/          # Utility functions and helpers
+│   └── main.py         # Entry point of the application
+├── assets/             # Static files (images, fonts, icons)
+├── tests/              # Unit and integration tests
+├── docs/               # Documentation and diagrams
+├── .gitignore          # Files to be ignored by git
+├── requirements.txt    # Project dependencies
+└── README.md           # Project overview and instructions
 
 
 
